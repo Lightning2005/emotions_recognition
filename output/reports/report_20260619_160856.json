@@ -1,0 +1,2254 @@
+{
+    "project_name": "Emotion Analytics",
+    "source": "0",
+    "export_timestamp": "2026-06-19T16:08:56.270436",
+    "summary": {
+        "total_frames_with_faces": 160,
+        "most_dominant_emotion_overall": "happy",
+        "emotions_occurrence_count": {
+            "happy": 160
+        }
+    },
+    "timeline": [
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.7,
+                "disgust": 0.0,
+                "fear": 0.33,
+                "happy": 97.22,
+                "sad": 1.73,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.7,
+                "disgust": 0.0,
+                "fear": 0.33,
+                "happy": 97.22,
+                "sad": 1.73,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.7,
+                "disgust": 0.0,
+                "fear": 0.33,
+                "happy": 97.22,
+                "sad": 1.73,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.36,
+                "disgust": 0.0,
+                "fear": 0.23,
+                "happy": 98.47,
+                "sad": 0.92,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.36,
+                "disgust": 0.0,
+                "fear": 0.23,
+                "happy": 98.47,
+                "sad": 0.92,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 3.83,
+                "disgust": 0.0,
+                "fear": 0.08,
+                "happy": 95.52,
+                "sad": 0.56,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 3.83,
+                "disgust": 0.0,
+                "fear": 0.08,
+                "happy": 95.52,
+                "sad": 0.56,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 3.83,
+                "disgust": 0.0,
+                "fear": 0.08,
+                "happy": 95.52,
+                "sad": 0.56,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 13.71,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 83.82,
+                "sad": 2.36,
+                "surprise": 0.0,
+                "neutral": 0.05
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 13.71,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 83.82,
+                "sad": 2.36,
+                "surprise": 0.0,
+                "neutral": 0.05
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 12.62,
+                "disgust": 0.0,
+                "fear": 0.16,
+                "happy": 81.13,
+                "sad": 5.43,
+                "surprise": 0.0,
+                "neutral": 0.66
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 12.62,
+                "disgust": 0.0,
+                "fear": 0.16,
+                "happy": 81.13,
+                "sad": 5.43,
+                "surprise": 0.0,
+                "neutral": 0.66
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 9.59,
+                "disgust": 0.0,
+                "fear": 0.13,
+                "happy": 82.45,
+                "sad": 6.94,
+                "surprise": 0.0,
+                "neutral": 0.89
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 9.59,
+                "disgust": 0.0,
+                "fear": 0.13,
+                "happy": 82.45,
+                "sad": 6.94,
+                "surprise": 0.0,
+                "neutral": 0.89
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 9.59,
+                "disgust": 0.0,
+                "fear": 0.13,
+                "happy": 82.45,
+                "sad": 6.94,
+                "surprise": 0.0,
+                "neutral": 0.89
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 7.7,
+                "disgust": 0.0,
+                "fear": 7.48,
+                "happy": 65.96,
+                "sad": 17.9,
+                "surprise": 0.0,
+                "neutral": 0.96
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 7.7,
+                "disgust": 0.0,
+                "fear": 7.48,
+                "happy": 65.96,
+                "sad": 17.9,
+                "surprise": 0.0,
+                "neutral": 0.96
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.19,
+                "disgust": 0.0,
+                "fear": 2.02,
+                "happy": 97.66,
+                "sad": 0.13,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.19,
+                "disgust": 0.0,
+                "fear": 2.02,
+                "happy": 97.66,
+                "sad": 0.13,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.45,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 98.56,
+                "sad": 0.97,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.45,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 98.56,
+                "sad": 0.97,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.45,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 98.56,
+                "sad": 0.97,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.23,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.27,
+                "sad": 0.49,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.23,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.27,
+                "sad": 0.49,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.38,
+                "sad": 0.43,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.38,
+                "sad": 0.43,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.38,
+                "sad": 0.43,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.13,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.5,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.13,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.5,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.1,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.59,
+                "sad": 0.29,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.1,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.59,
+                "sad": 0.29,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.1,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.59,
+                "sad": 0.29,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.68,
+                "disgust": 0.0,
+                "fear": 8.23,
+                "happy": 83.06,
+                "sad": 7.33,
+                "surprise": 0.0,
+                "neutral": 0.69
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.68,
+                "disgust": 0.0,
+                "fear": 8.23,
+                "happy": 83.06,
+                "sad": 7.33,
+                "surprise": 0.0,
+                "neutral": 0.69
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.59,
+                "disgust": 0.0,
+                "fear": 7.08,
+                "happy": 85.42,
+                "sad": 6.32,
+                "surprise": 0.0,
+                "neutral": 0.59
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.59,
+                "disgust": 0.0,
+                "fear": 7.08,
+                "happy": 85.42,
+                "sad": 6.32,
+                "surprise": 0.0,
+                "neutral": 0.59
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.59,
+                "disgust": 0.0,
+                "fear": 7.08,
+                "happy": 85.42,
+                "sad": 6.32,
+                "surprise": 0.0,
+                "neutral": 0.59
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.87,
+                "disgust": 0.0,
+                "fear": 6.27,
+                "happy": 75.69,
+                "sad": 16.46,
+                "surprise": 0.0,
+                "neutral": 0.71
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.87,
+                "disgust": 0.0,
+                "fear": 6.27,
+                "happy": 75.69,
+                "sad": 16.46,
+                "surprise": 0.0,
+                "neutral": 0.71
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 1.54,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 90.54,
+                "sad": 7.26,
+                "surprise": 0.0,
+                "neutral": 0.66
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 1.54,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 90.54,
+                "sad": 7.26,
+                "surprise": 0.0,
+                "neutral": 0.66
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 1.54,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 90.54,
+                "sad": 7.26,
+                "surprise": 0.0,
+                "neutral": 0.66
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.8,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 95.1,
+                "sad": 3.76,
+                "surprise": 0.0,
+                "neutral": 0.34
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.8,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 95.1,
+                "sad": 3.76,
+                "surprise": 0.0,
+                "neutral": 0.34
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.61,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 95.95,
+                "sad": 3.2,
+                "surprise": 0.0,
+                "neutral": 0.24
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.61,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 95.95,
+                "sad": 3.2,
+                "surprise": 0.0,
+                "neutral": 0.24
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.46,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 96.95,
+                "sad": 2.41,
+                "surprise": 0.0,
+                "neutral": 0.18
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.46,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 96.95,
+                "sad": 2.41,
+                "surprise": 0.0,
+                "neutral": 0.18
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.82,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 96.52,
+                "sad": 2.49,
+                "surprise": 0.0,
+                "neutral": 0.17
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.82,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 96.52,
+                "sad": 2.49,
+                "surprise": 0.0,
+                "neutral": 0.17
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.82,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 96.52,
+                "sad": 2.49,
+                "surprise": 0.0,
+                "neutral": 0.17
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.68,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 97.09,
+                "sad": 2.08,
+                "surprise": 0.0,
+                "neutral": 0.14
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.68,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 97.09,
+                "sad": 2.08,
+                "surprise": 0.0,
+                "neutral": 0.14
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.63,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 96.72,
+                "sad": 2.47,
+                "surprise": 0.0,
+                "neutral": 0.17
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.63,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 96.72,
+                "sad": 2.47,
+                "surprise": 0.0,
+                "neutral": 0.17
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.63,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 96.72,
+                "sad": 2.47,
+                "surprise": 0.0,
+                "neutral": 0.17
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.55,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 97.11,
+                "sad": 2.18,
+                "surprise": 0.0,
+                "neutral": 0.15
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.55,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 97.11,
+                "sad": 2.18,
+                "surprise": 0.0,
+                "neutral": 0.15
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.53,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 97.15,
+                "sad": 2.18,
+                "surprise": 0.0,
+                "neutral": 0.14
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.53,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 97.15,
+                "sad": 2.18,
+                "surprise": 0.0,
+                "neutral": 0.14
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.53,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 97.15,
+                "sad": 2.18,
+                "surprise": 0.0,
+                "neutral": 0.14
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.48,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 97.42,
+                "sad": 1.97,
+                "surprise": 0.0,
+                "neutral": 0.13
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.48,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 97.42,
+                "sad": 1.97,
+                "surprise": 0.0,
+                "neutral": 0.13
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.34,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 98.32,
+                "sad": 1.25,
+                "surprise": 0.0,
+                "neutral": 0.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.34,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 98.32,
+                "sad": 1.25,
+                "surprise": 0.0,
+                "neutral": 0.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.36,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.86,
+                "sad": 1.26,
+                "surprise": 0.0,
+                "neutral": 0.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.36,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.86,
+                "sad": 1.26,
+                "surprise": 0.0,
+                "neutral": 0.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.36,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.86,
+                "sad": 1.26,
+                "surprise": 0.0,
+                "neutral": 0.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.34,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.03,
+                "sad": 1.1,
+                "surprise": 0.0,
+                "neutral": 1.09
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.34,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.03,
+                "sad": 1.1,
+                "surprise": 0.0,
+                "neutral": 1.09
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.34,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 93.96,
+                "sad": 1.15,
+                "surprise": 0.0,
+                "neutral": 1.1
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.34,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 93.96,
+                "sad": 1.15,
+                "surprise": 0.0,
+                "neutral": 1.1
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.13,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.34,
+                "sad": 0.99,
+                "surprise": 0.0,
+                "neutral": 1.09
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.13,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.34,
+                "sad": 0.99,
+                "surprise": 0.0,
+                "neutral": 1.09
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.13,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.34,
+                "sad": 0.99,
+                "surprise": 0.0,
+                "neutral": 1.09
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.29,
+                "sad": 1.03,
+                "surprise": 0.0,
+                "neutral": 1.09
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 3.45,
+                "happy": 94.29,
+                "sad": 1.03,
+                "surprise": 0.0,
+                "neutral": 1.09
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 3.47,
+                "happy": 94.53,
+                "sad": 0.78,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 3.47,
+                "happy": 94.53,
+                "sad": 0.78,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.2,
+                "disgust": 0.0,
+                "fear": 3.47,
+                "happy": 94.11,
+                "sad": 1.13,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.2,
+                "disgust": 0.0,
+                "fear": 3.47,
+                "happy": 94.11,
+                "sad": 1.13,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.48,
+                "happy": 94.32,
+                "sad": 0.95,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.48,
+                "happy": 94.32,
+                "sad": 0.95,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.48,
+                "happy": 94.32,
+                "sad": 0.95,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.47,
+                "happy": 94.32,
+                "sad": 0.95,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.47,
+                "happy": 94.32,
+                "sad": 0.95,
+                "surprise": 0.0,
+                "neutral": 1.08
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.48,
+                "happy": 94.31,
+                "sad": 0.97,
+                "surprise": 0.0,
+                "neutral": 1.07
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.48,
+                "happy": 94.31,
+                "sad": 0.97,
+                "surprise": 0.0,
+                "neutral": 1.07
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.17,
+                "disgust": 0.0,
+                "fear": 3.48,
+                "happy": 94.31,
+                "sad": 0.97,
+                "surprise": 0.0,
+                "neutral": 1.07
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.18,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 97.6,
+                "sad": 1.1,
+                "surprise": 0.0,
+                "neutral": 1.06
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.18,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 97.6,
+                "sad": 1.1,
+                "surprise": 0.0,
+                "neutral": 1.06
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.18,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.67,
+                "sad": 1.06,
+                "surprise": 0.0,
+                "neutral": 0.05
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.18,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.67,
+                "sad": 1.06,
+                "surprise": 0.0,
+                "neutral": 0.05
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.18,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.67,
+                "sad": 1.06,
+                "surprise": 0.0,
+                "neutral": 0.05
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.18,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.73,
+                "sad": 1.01,
+                "surprise": 0.0,
+                "neutral": 0.04
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.18,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.73,
+                "sad": 1.01,
+                "surprise": 0.0,
+                "neutral": 0.04
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 98.86,
+                "sad": 0.89,
+                "surprise": 0.0,
+                "neutral": 0.03
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 98.86,
+                "sad": 0.89,
+                "surprise": 0.0,
+                "neutral": 0.03
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 98.86,
+                "sad": 0.89,
+                "surprise": 0.0,
+                "neutral": 0.03
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 98.92,
+                "sad": 0.84,
+                "surprise": 0.0,
+                "neutral": 0.03
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.16,
+                "disgust": 0.0,
+                "fear": 0.05,
+                "happy": 98.92,
+                "sad": 0.84,
+                "surprise": 0.0,
+                "neutral": 0.03
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.13,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.17,
+                "sad": 0.65,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.13,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.17,
+                "sad": 0.65,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.08,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.59,
+                "sad": 0.3,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.08,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.59,
+                "sad": 0.3,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.08,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.59,
+                "sad": 0.3,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.61,
+                "sad": 0.28,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.61,
+                "sad": 0.28,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.52,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.52,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.03,
+                "happy": 99.52,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.58,
+                "sad": 0.31,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.58,
+                "sad": 0.31,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.6,
+                "sad": 0.3,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.6,
+                "sad": 0.3,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.54,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.54,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.54,
+                "sad": 0.34,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.1,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.49,
+                "sad": 0.39,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.1,
+                "disgust": 0.0,
+                "fear": 0.02,
+                "happy": 99.49,
+                "sad": 0.39,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.21,
+                "sad": 0.64,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.21,
+                "sad": 0.64,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.21,
+                "sad": 0.64,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.2,
+                "sad": 0.65,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.01,
+                "happy": 99.2,
+                "sad": 0.65,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.18,
+                "sad": 0.68,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.18,
+                "sad": 0.68,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.17,
+                "sad": 0.69,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.17,
+                "sad": 0.69,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.12,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.17,
+                "sad": 0.69,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.15,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.06,
+                "sad": 0.73,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.15,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.06,
+                "sad": 0.73,
+                "surprise": 0.0,
+                "neutral": 0.02
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.97,
+                "sad": 0.84,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.97,
+                "sad": 0.84,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.97,
+                "sad": 0.84,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.96,
+                "sad": 0.86,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.14,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 98.96,
+                "sad": 0.86,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.11,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.13,
+                "sad": 0.72,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.11,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.13,
+                "sad": 0.72,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.18,
+                "sad": 0.68,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.18,
+                "sad": 0.68,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.18,
+                "sad": 0.68,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.22,
+                "sad": 0.64,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.22,
+                "sad": 0.64,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.48,
+                "sad": 0.41,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.48,
+                "sad": 0.41,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.48,
+                "sad": 0.4,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.48,
+                "sad": 0.4,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.06,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.54,
+                "sad": 0.36,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.06,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.54,
+                "sad": 0.36,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.06,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.54,
+                "sad": 0.36,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.1,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.49,
+                "sad": 0.37,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.1,
+                "disgust": 0.0,
+                "fear": 0.04,
+                "happy": 99.49,
+                "sad": 0.37,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.62,
+                "sad": 0.3,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.07,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.62,
+                "sad": 0.3,
+                "surprise": 0.0,
+                "neutral": 0.0
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.06,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.77,
+                "sad": 0.16,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.06,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.77,
+                "sad": 0.16,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.66,
+                "sad": 0.23,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.66,
+                "sad": 0.23,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        },
+        {
+            "frame_idx": 0,
+            "timestamp_sec": 0.0,
+            "dominant_emotion": "happy",
+            "emotion_distribution": {
+                "angry": 0.09,
+                "disgust": 0.0,
+                "fear": 0.0,
+                "happy": 99.66,
+                "sad": 0.23,
+                "surprise": 0.0,
+                "neutral": 0.01
+            }
+        }
+    ]
+}
