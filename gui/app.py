@@ -261,6 +261,8 @@ class EmotionApp(ctk.CTk):
         self.history_widget = HistoryWidget(self.tab_view.tab("История сессий"), db_manager=self.db_manager)
         self.history_widget.pack(fill="both", expand=True, padx=5, pady=5)
 
+        self.set_media_controls_state(False)
+
         self.tab_view.configure(command=self._on_tab_changed)
 
     def _on_tab_changed(self):
